@@ -30,8 +30,8 @@ user_pref("app.normandy.enabled", false);
 user_pref("app.normandy.first_run", false);
 /* Disable installing and running studies */
 user_pref("app.shield.optoutstudies.enabled", false);
-/* Ensure content blocking settings are always respected */
-user_pref("browser.contentblocking.category", "custom");
+/* Ensure content blocking settings are set to strict */
+user_pref("browser.contentblocking.category", "strict");
 /* Disable search and form history */
 user_pref("browser.formfill.enable", false);
 /* Disable activity stream */
