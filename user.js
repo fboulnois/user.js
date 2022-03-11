@@ -43,6 +43,8 @@ user_pref("browser.newtabpage.activity-stream.section.highlights.includePocket",
 user_pref("browser.newtabpage.activity-stream.showSponsored", false);
 user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 user_pref("browser.newtabpage.activity-stream.telemetry", false);
+/* Disable More from Mozilla tab in settings */
+user_pref("browser.preferences.moreFromMozilla", false);
 /* Disable VPN sponsor when private browsing */
 user_pref("browser.privatebrowsing.vpnpromourl", "");
 /* Disable search suggestions */
