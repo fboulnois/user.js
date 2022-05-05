@@ -45,8 +45,10 @@ user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 user_pref("browser.newtabpage.activity-stream.telemetry", false);
 /* Disable More from Mozilla tab in settings */
 user_pref("browser.preferences.moreFromMozilla", false);
+/* Disable Firefox Focus promo when private browsing */
+user_pref("browser.promo.focus.enabled", false);
 /* Disable VPN sponsor when private browsing */
-user_pref("browser.privatebrowsing.vpnpromourl", "");
+user_pref("browser.vpn_promo.enabled", false);
 /* Disable search suggestions */
 user_pref("browser.search.suggest.enabled", false);
 /* Disable location bar suggestions */
