@@ -81,6 +81,8 @@ user_pref("network.predictor.enabled", false);
 user_pref("network.prefetch-next", false);
 /* Enable state partitioning of service workers */
 user_pref("privacy.partition.serviceWorkers", true);
+/* Enable browser fingerprinting protection */
+user_pref("privacy.resistFingerprinting", true);
 /* Enable enhanced tracking protections */
 user_pref("privacy.trackingprotection.enabled", true);
 user_pref("privacy.trackingprotection.socialtracking.enabled", true);
