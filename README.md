@@ -40,6 +40,8 @@ In addition, a few security settings are configured:
 * [Enhanced tracking protection](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
 is enabled to block ad and social media trackers, cross-site cookies,
 cryptominers, and fingerprinters.
+* [Fingerprint resistance](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
+is enabled to prevent websites from easily identifying you on the web.
 * [HTTPS-only mode](https://support.mozilla.org/en-US/kb/https-only-prefs) is
 enabled to force secure connections to all websites.
 * Automatic form filling is disabled as this data can be [phished](https://duckduckgo.com/?q=autofill+phishing).
