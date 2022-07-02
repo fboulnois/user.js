@@ -38,12 +38,12 @@ collects numerous pieces of user data as per their [Privacy Policy](https://getp
 In addition, a few security settings are configured:
 
 * [Enhanced tracking protection](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
-is enabled to block ad and social media trackers, cross-site cookies,
-cryptominers, and fingerprinters.
+blocks ad and social media trackers, cross-site cookies, cryptominers, and
+fingerprinters.
 * [Fingerprint resistance](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
-is enabled to prevent websites from easily identifying you on the web.
-* [HTTPS-only mode](https://support.mozilla.org/en-US/kb/https-only-prefs) is
-enabled to force secure connections to all websites.
+prevents websites from easily identifying you on the web.
+* [HTTPS-only mode](https://support.mozilla.org/en-US/kb/https-only-prefs)
+forces secure connections to all websites.
 * Automatic form filling is disabled as this data can be [phished](https://duckduckgo.com/?q=autofill+phishing).
 * Links and DNS prefetching are disabled to prevent potential [data leaks to third-parties](https://www.usenix.org/legacy/event/leet10/tech/full_papers/Krishnan.pdf)
 and [other security issues](https://www.cert-ist.com/public/en/SO_detail?code=dns_prefetching).
