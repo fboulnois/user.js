@@ -38,7 +38,7 @@ collects numerous pieces of user data as per their [Privacy Policy](https://getp
 In addition, a few security settings are configured:
 
 * [Enhanced tracking protection](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
-blocks ad and social media trackers, cross-site cookies, cryptominers, and
+blocks ad and social media trackers, cross-site cookies, cryptominers, and known
 fingerprinters.
 * [Fingerprint resistance](https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting)
 prevents websites from easily identifying you on the web.
