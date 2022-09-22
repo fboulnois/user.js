@@ -6,8 +6,6 @@ user_pref("browser.aboutConfig.showWarning", false);
 user_pref("browser.newtabpage.pinned", []);
 /* Check that Firefox is the default browser */
 user_pref("browser.shell.checkDefaultBrowser", true);
-/* Set homepage to DuckDuckGo */
-user_pref("browser.startup.homepage", "https://duckduckgo.com/");
 /* Open previous windows and tabs */
 user_pref("browser.startup.page", 3);
 /* Don't warn when too many are tabs opened at same time */
