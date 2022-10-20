@@ -2,6 +2,8 @@
 
 /* Disable about:config warning */
 user_pref("browser.aboutConfig.showWarning", false);
+/* Disable onboarding startup page */
+user_pref("browser.aboutwelcome.enabled", false);
 /* Remove default pinned tabs */
 user_pref("browser.newtabpage.pinned", []);
 /* Check that Firefox is the default browser */
