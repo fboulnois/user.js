@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.12](https://github.com/fboulnois/user.js/compare/v1.0.11...v1.0.12) - 2022-12-13
+
+### Added
+
+* Skip what's new page after update
+
 ## [v1.0.11](https://github.com/fboulnois/user.js/compare/v1.0.10...v1.0.11) - 2022-10-20
 
 ### Added
