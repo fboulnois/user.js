@@ -8,6 +8,8 @@ user_pref("browser.aboutwelcome.enabled", false);
 user_pref("browser.newtabpage.pinned", []);
 /* Check that Firefox is the default browser */
 user_pref("browser.shell.checkDefaultBrowser", true);
+/* Skip What's New page after update */
+user_pref("browser.startup.homepage_override.mstone", "ignore");
 /* Open previous windows and tabs */
 user_pref("browser.startup.page", 3);
 /* Don't warn when too many are tabs opened at same time */
