@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.13](https://github.com/fboulnois/user.js/compare/v1.0.12...v1.0.13) - 2022-12-19
+
+### Fixed
+
+* Remove old privacy preferences
+
 ## [v1.0.12](https://github.com/fboulnois/user.js/compare/v1.0.11...v1.0.12) - 2022-12-13
 
 ### Added
