@@ -29,10 +29,10 @@ user_pref("findbar.highlightAll", true);
 /* Disable Normandy telemetry */
 user_pref("app.normandy.api_url", "");
 user_pref("app.normandy.enabled", false);
-user_pref("app.normandy.first_run", false);
 /* Disable installing and running studies */
 user_pref("app.shield.optoutstudies.enabled", false);
 /* Ensure content blocking settings are set to strict */
+/* Enable enhanced tracking protection in strict mode */
 user_pref("browser.contentblocking.category", "strict");
 /* Disable search and form history */
 user_pref("browser.formfill.enable", false);
@@ -52,7 +52,6 @@ user_pref("browser.vpn_promo.enabled", false);
 /* Disable search suggestions */
 user_pref("browser.search.suggest.enabled", false);
 /* Disable location bar suggestions */
-user_pref("browser.urlbar.showSearchSuggestionsFirst", false);
 user_pref("browser.urlbar.speculativeConnect.enabled", false);
 user_pref("browser.urlbar.suggest.searches", false);
 user_pref("browser.urlbar.suggest.quicksuggest.nonsponsored", false);
@@ -70,8 +69,6 @@ user_pref("extensions.formautofill.creditCards.enabled", false);
 user_pref("extensions.formautofill.heuristics.enabled", false);
 /* Disable pocket extension */
 user_pref("extensions.pocket.enabled", false);
-/* Set enhanced tracking protection to strict mode */
-user_pref("network.cookie.cookieBehavior", 5);
 /* Disable link and DNS prefetching */
 user_pref("network.http.speculative-parallel-limit", 0);
 user_pref("network.dns.disablePrefetch", true);
@@ -83,9 +80,6 @@ user_pref("privacy.partition.always_partition_third_party_non_cookie_storage", t
 user_pref("privacy.partition.serviceWorkers", true);
 /* Enable browser fingerprinting protection */
 user_pref("privacy.resistFingerprinting", true);
-/* Enable enhanced tracking protections */
-user_pref("privacy.trackingprotection.enabled", true);
-user_pref("privacy.trackingprotection.socialtracking.enabled", true);
 /* Disable username and password autofill */
 user_pref("signon.autofillForms", false);
 user_pref("signon.rememberSignons", false);
