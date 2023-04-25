@@ -62,7 +62,6 @@ user_pref("datareporting.healthreport.uploadEnabled", false);
 user_pref("datareporting.policy.dataSubmissionEnabled", false);
 /* Enable https only mode */
 user_pref("dom.security.https_only_mode", true);
-user_pref("dom.security.https_only_mode_ever_enabled", true);
 /* Disable form autofill */
 user_pref("extensions.formautofill.addresses.enabled", false);
 user_pref("extensions.formautofill.creditCards.enabled", false);
