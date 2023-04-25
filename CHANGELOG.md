@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.14](https://github.com/fboulnois/user.js/compare/v1.0.13...v1.0.14) - 2023-04-25
+
+### Fixed
+
+* Disable quicksuggest using newer option
+* State partitioning is now the default
+* Remove unused https only mode check
+
 ## [v1.0.13](https://github.com/fboulnois/user.js/compare/v1.0.12...v1.0.13) - 2022-12-19
 
 ### Fixed
