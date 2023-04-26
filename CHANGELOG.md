@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.15](https://github.com/fboulnois/user.js/compare/v1.0.14...v1.0.15) - 2023-04-26
+
+### Fixed
+
+* Use correct quicksuggest option name
+
 ## [v1.0.14](https://github.com/fboulnois/user.js/compare/v1.0.13...v1.0.14) - 2023-04-25
 
 ### Fixed
