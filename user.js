@@ -52,9 +52,9 @@ user_pref("browser.vpn_promo.enabled", false);
 /* Disable search suggestions */
 user_pref("browser.search.suggest.enabled", false);
 /* Disable location bar suggestions */
+user_pref("browser.urlbar.quicksuggest.enabled", false);
 user_pref("browser.urlbar.speculativeConnect.enabled", false);
 user_pref("browser.urlbar.suggest.searches", false);
-user_pref("browser.urlbar.suggest.quicksuggest.enabled", false);
 /* Disable health reports */
 user_pref("datareporting.healthreport.uploadEnabled", false);
 /* Disable data submission */
