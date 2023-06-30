@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.16](https://github.com/fboulnois/user.js/compare/v1.0.15...v1.0.16) - 2023-06-30
+
+### Added
+
+* Disable browser uitour
+
 ## [v1.0.15](https://github.com/fboulnois/user.js/compare/v1.0.14...v1.0.15) - 2023-04-26
 
 ### Fixed
