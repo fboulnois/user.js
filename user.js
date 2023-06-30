@@ -51,6 +51,8 @@ user_pref("browser.promo.focus.enabled", false);
 user_pref("browser.vpn_promo.enabled", false);
 /* Disable search suggestions */
 user_pref("browser.search.suggest.enabled", false);
+/* Prevent remote resources from interacting with Firefox chrome */
+user_pref("browser.uitour.enabled", false);
 /* Disable location bar suggestions */
 user_pref("browser.urlbar.quicksuggest.enabled", false);
 user_pref("browser.urlbar.speculativeConnect.enabled", false);
