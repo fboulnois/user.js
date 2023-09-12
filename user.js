@@ -6,6 +6,10 @@ user_pref("browser.aboutConfig.showWarning", false);
 user_pref("browser.aboutwelcome.enabled", false);
 /* Remove default pinned tabs */
 user_pref("browser.newtabpage.pinned", []);
+/* Disable More from Mozilla tab in settings */
+user_pref("browser.preferences.moreFromMozilla", false);
+/* Disable Firefox Focus promo when private browsing */
+user_pref("browser.promo.focus.enabled", false);
 /* Check that Firefox is the default browser */
 user_pref("browser.shell.checkDefaultBrowser", true);
 /* Skip What's New page after update */
@@ -18,6 +22,8 @@ user_pref("browser.tabs.warnOnOpen", false);
 user_pref("browser.taskbar.previews.enable", true);
 /* Hide bookmark toolbar */
 user_pref("browser.toolbars.bookmarks.visibility", "never");
+/* Disable VPN sponsor when private browsing */
+user_pref("browser.vpn_promo.enabled", false);
 /* Enable custom stylesheets */
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 /* Highlight items when finding in page */
@@ -43,12 +49,6 @@ user_pref("browser.newtabpage.activity-stream.feeds.telemetry", false);
 user_pref("browser.newtabpage.activity-stream.showSponsored", false);
 user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 user_pref("browser.newtabpage.activity-stream.telemetry", false);
-/* Disable More from Mozilla tab in settings */
-user_pref("browser.preferences.moreFromMozilla", false);
-/* Disable Firefox Focus promo when private browsing */
-user_pref("browser.promo.focus.enabled", false);
-/* Disable VPN sponsor when private browsing */
-user_pref("browser.vpn_promo.enabled", false);
 /* Disable search suggestions */
 user_pref("browser.search.suggest.enabled", false);
 /* Prevent remote resources from interacting with Firefox chrome */
