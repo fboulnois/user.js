@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.17](https://github.com/fboulnois/user.js/compare/v1.0.16...v1.0.17) - 2023-09-12
+
+### Changed
+
+* Move promos from security to user settings
+
 ## [v1.0.16](https://github.com/fboulnois/user.js/compare/v1.0.15...v1.0.16) - 2023-06-30
 
 ### Added
