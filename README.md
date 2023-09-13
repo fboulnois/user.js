@@ -16,7 +16,7 @@ more information about `user.js` scripts.
 ## Configured settings
 
 A few user options are configured including setting Firefox as the default
-browser and hiding the bookmarks toolbar.
+browser, hiding the bookmarks toolbar, and removing in-browser advertising.
 
 Mozilla has increasingly relied on data collection to guide Firefox development
 and eroded user privacy in the process. For privacy, data collection is disabled
