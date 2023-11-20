@@ -1,6 +1,12 @@
 # Changelog
 
-## [v1.0.17](https://github.com/fboulnois/user.js/compare/v1.0.16...v1.0.17) - 2023-09-12
+## [v1.0.18](https://github.com/fboulnois/user.js/compare/v1.0.17...v1.0.18) - 2023-11-20
+
+### Fixed
+
+* Fpp is now the default when using strict
+
+## [v1.0.17](https://github.com/fboulnois/user.js/compare/v1.0.16...v1.0.17) - 2023-09-13
 
 ### Changed
 
