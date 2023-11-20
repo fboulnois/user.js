@@ -39,6 +39,7 @@ user_pref("app.normandy.enabled", false);
 user_pref("app.shield.optoutstudies.enabled", false);
 /* Ensure content blocking settings are set to strict */
 /* Enable enhanced tracking protection in strict mode */
+/* Enable browser fingerprinting protection */
 user_pref("browser.contentblocking.category", "strict");
 /* Disable search and form history */
 user_pref("browser.formfill.enable", false);
@@ -74,8 +75,6 @@ user_pref("network.http.speculative-parallel-limit", 0);
 user_pref("network.dns.disablePrefetch", true);
 user_pref("network.predictor.enabled", false);
 user_pref("network.prefetch-next", false);
-/* Enable browser fingerprinting protection */
-user_pref("privacy.resistFingerprinting", true);
 /* Disable username and password autofill */
 user_pref("signon.autofillForms", false);
 user_pref("signon.rememberSignons", false);
