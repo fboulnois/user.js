@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.19](https://github.com/fboulnois/user.js/compare/v1.0.18...v1.0.19) - 2024-03-08
+
+### Fixed
+
+* Remove old formautofill heuristics pref
+* Remove old activity feed snippets pref
+
 ## [v1.0.18](https://github.com/fboulnois/user.js/compare/v1.0.17...v1.0.18) - 2023-11-20
 
 ### Fixed
