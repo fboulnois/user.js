@@ -56,6 +56,7 @@ user_pref("browser.uitour.enabled", false);
 /* Disable location bar suggestions */
 user_pref("browser.urlbar.quicksuggest.enabled", false);
 user_pref("browser.urlbar.speculativeConnect.enabled", false);
+user_pref("browser.urlbar.suggest.engines", false);
 user_pref("browser.urlbar.suggest.searches", false);
 /* Disable health reports */
 user_pref("datareporting.healthreport.uploadEnabled", false);
