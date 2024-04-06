@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.20](https://github.com/fboulnois/user.js/compare/v1.0.19...v1.0.20) - 2024-04-06
+
+### Added
+
+* Do not suggest search engines in urlbar
+
 ## [v1.0.19](https://github.com/fboulnois/user.js/compare/v1.0.18...v1.0.19) - 2024-03-08
 
 ### Fixed
