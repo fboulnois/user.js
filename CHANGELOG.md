@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.0.21](https://github.com/fboulnois/user.js/compare/v1.0.20...v1.0.21) - 2024-07-13
+
+### Added
+
+* Disable PPA submissions
+
 ## [v1.0.20](https://github.com/fboulnois/user.js/compare/v1.0.19...v1.0.20) - 2024-04-06
 
 ### Added
