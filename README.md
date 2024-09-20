@@ -1,7 +1,7 @@
 # Firefox `user.js`
 
 A custom [`user.js`](user.js) script to configure Firefox user, privacy, and
-security settings. Supports Firefox 115+.
+security settings. Supports Firefox 128+.
 
 The goal is to make minimal changes to Firefox settings to enhance security and
 privacy without compromising on modern web features or making Firefox unstable
