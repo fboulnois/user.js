@@ -4,6 +4,8 @@
 user_pref("browser.aboutConfig.showWarning", false);
 /* Disable onboarding startup page */
 user_pref("browser.aboutwelcome.enabled", false);
+/* Disable sponsored weather on new tab page */
+user_pref("browser.newtabpage.activity-stream.system.showWeather", false);
 /* Remove default pinned tabs */
 user_pref("browser.newtabpage.pinned", []);
 /* Disable More from Mozilla tab in settings */
