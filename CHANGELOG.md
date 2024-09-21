@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.1.0](https://github.com/fboulnois/user.js/compare/v1.0.21...v1.1.0) - 2024-09-20
+
+### Added
+
+* Disable weather on new tab page
+
 ## [v1.0.21](https://github.com/fboulnois/user.js/compare/v1.0.20...v1.0.21) - 2024-07-13
 
 ### Added
