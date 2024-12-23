@@ -64,8 +64,6 @@ user_pref("browser.urlbar.suggest.searches", false);
 user_pref("datareporting.healthreport.uploadEnabled", false);
 /* Disable data submission */
 user_pref("datareporting.policy.dataSubmissionEnabled", false);
-/* Disable privacy-preserving attribution submissions */
-user_pref("dom.private-attribution.submission.enabled", false);
 /* Enable https only mode */
 user_pref("dom.security.https_only_mode", true);
 /* Disable form autofill */
