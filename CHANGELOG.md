@@ -1,5 +1,11 @@
 # Changelog
 
+## [v1.1.2](https://github.com/fboulnois/user.js/compare/v1.1.1...v1.1.2) - 2025-07-03
+
+### Fixed
+
+* Disable the new tab page layout
+
 ## [v1.1.1](https://github.com/fboulnois/user.js/compare/v1.1.0...v1.1.1) - 2024-12-23
 
 ### Fixed
