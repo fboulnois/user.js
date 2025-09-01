@@ -4,8 +4,6 @@
 user_pref("browser.aboutConfig.showWarning", false);
 /* Disable onboarding startup page */
 user_pref("browser.aboutwelcome.enabled", false);
-/* Disable the new tab page layout */
-user_pref("browser.newtabpage.activity-stream.newtabLayouts.variant-b", false);
 /* Disable sponsored weather on new tab page */
 user_pref("browser.newtabpage.activity-stream.system.showWeather", false);
 /* Remove default pinned tabs */
