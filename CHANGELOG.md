@@ -1,5 +1,15 @@
 # Changelog
 
+## [v1.1.3](https://github.com/fboulnois/user.js/compare/v1.1.2...v1.1.3) - 2025-09-01
+
+### Added
+
+* Disable tracking website exceptions
+
+### Fixed
+
+* Remove new tab page layout variant
+
 ## [v1.1.2](https://github.com/fboulnois/user.js/compare/v1.1.1...v1.1.2) - 2025-07-03
 
 ### Fixed
