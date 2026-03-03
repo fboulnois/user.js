@@ -71,11 +71,6 @@ user_pref("extensions.formautofill.addresses.enabled", false);
 user_pref("extensions.formautofill.creditCards.enabled", false);
 /* Disable pocket extension */
 user_pref("extensions.pocket.enabled", false);
-/* Disable link and DNS prefetching */
-user_pref("network.http.speculative-parallel-limit", 0);
-user_pref("network.dns.disablePrefetch", true);
-user_pref("network.predictor.enabled", false);
-user_pref("network.prefetch-next", false);
 /* Disable baseline and convenience website exceptions */
 user_pref("privacy.trackingprotection.allow_list.baseline.enabled", false);
 user_pref("privacy.trackingprotection.allow_list.convenience.enabled", false);
