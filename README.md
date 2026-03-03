@@ -45,8 +45,6 @@ prevents websites from easily identifying you on the web.
 * [HTTPS-only mode](https://support.mozilla.org/en-US/kb/https-only-prefs)
 forces secure connections to all websites.
 * Automatic form filling is disabled as this data can be [phished](https://duckduckgo.com/?q=autofill+phishing).
-* Links and DNS prefetching are disabled to prevent potential [data leaks to third-parties](https://www.usenix.org/legacy/event/leet10/tech/full_papers/Krishnan.pdf)
-and [other security issues](https://www.cert-ist.com/public/en/SO_detail?code=dns_prefetching).
 
 ## Installation
 
