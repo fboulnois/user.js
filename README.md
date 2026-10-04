@@ -32,8 +32,6 @@ telemetry based on interactions with the new tab and homepage.
 send your search keywords to the default search engine.
 * [Firefox Health Report](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/obsolete/fhr/index.html)
 collects application metrics and submits them to a central server.
-* [Pocket](https://help.getpocket.com/article/913-pocket-for-firefox-faq)
-collects numerous pieces of user data as per their [Privacy Policy](https://getpocket.com/en/privacy/).
 
 In addition, a few security settings are configured:
 
