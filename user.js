@@ -65,8 +65,6 @@ user_pref("dom.security.https_only_mode", true);
 /* Disable form autofill */
 user_pref("extensions.formautofill.addresses.enabled", false);
 user_pref("extensions.formautofill.creditCards.enabled", false);
-/* Disable pocket extension */
-user_pref("extensions.pocket.enabled", false);
 /* Disable baseline and convenience website exceptions */
 user_pref("privacy.trackingprotection.allow_list.baseline.enabled", false);
 user_pref("privacy.trackingprotection.allow_list.convenience.enabled", false);
