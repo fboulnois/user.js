@@ -10,8 +10,6 @@ user_pref("browser.newtabpage.activity-stream.system.showWeather", false);
 user_pref("browser.newtabpage.pinned", []);
 /* Disable More from Mozilla tab in settings */
 user_pref("browser.preferences.moreFromMozilla", false);
-/* Disable Firefox Focus promo when private browsing */
-user_pref("browser.promo.focus.enabled", false);
 /* Check that Firefox is the default browser */
 user_pref("browser.shell.checkDefaultBrowser", true);
 /* Open previous windows and tabs */
